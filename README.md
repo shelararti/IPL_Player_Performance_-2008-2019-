@@ -26,16 +26,6 @@ This project explores:
 
 ---
 
-## 🧠 Key Insights
-
-- Which teams play and win the most matches?
-- Who are the top 10 run scorers and wicket-takers?
-- Which stadiums are high-scoring?
-- How has scoring evolved over the years?
-- Does winning the toss correlate with match results?
-
----
-
 ## 🛠️ Tech Stack
 
 - **Python**
